@@ -1,0 +1,15 @@
+2020-03-05 12:37:29,165 INFO  [main] root: start server
+2020-03-05 12:37:57,527 DEBUG [main] root: server accept client
+2020-03-05 12:37:57,527 DEBUG [main] root: socket create
+2020-03-05 12:37:57,543 DEBUG [main] root: reader create
+2020-03-05 12:37:57,543 DEBUG [main] root: writer create
+2020-03-05 12:37:57,543 DEBUG [main] root: thread start
+2020-03-05 12:42:14,096 DEBUG [Thread-0] root: client send hello world
+2020-03-05 12:42:37,258 INFO  [Thread-0] root: logLevel setall
+2020-03-05 12:42:45,380 DEBUG [Thread-0] root: client diconnectSocket[addr=/127.0.0.1,port=64071,localport=8080]
+2020-03-05 12:42:52,618 DEBUG [main] root: server accept client
+2020-03-05 12:42:52,618 DEBUG [main] root: socket create
+2020-03-05 12:42:52,618 DEBUG [main] root: reader create
+2020-03-05 12:42:52,618 DEBUG [main] root: writer create
+2020-03-05 12:42:52,618 DEBUG [main] root: thread start
+2020-03-05 12:42:56,196 DEBUG [Thread-1] root: client diconnectSocket[addr=/127.0.0.1,port=64090,localport=8080]
